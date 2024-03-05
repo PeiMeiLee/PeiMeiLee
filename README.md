@@ -1,6 +1,6 @@
 - 👋 Hi there!
 - 👀 I’m interested in Data Analytics and Data Science topics. 
-- 🌱 Currently I'm sharping my skills in SQL, Tableau and Python. 
+- 🌱 Currently I'm sharpening my skills in SQL, Tableau and Python. 
 - 📫 Here is my [LinkedIn profile](https://www.linkedin.com/in/peimeilee/).
 - 📫 To see my projects, here is the [Portfolio](https://peimeilee.github.io/portfolio/).
   
